@@ -1,10 +1,11 @@
-GoalForge! - Intelligent Goal Recommendation System that Asks 20 questions, get 5 personalized career goals powered by machine learning.
+**GoalForge! - Intelligent Goal Recommendation System** - that Asks 20 questions, get 5 personalized career goals powered by machine learning.
 
-1. How to Start
+**Start**
 
 **bash:**
 # Clone the repository
 git clone https://github.com/Cashlin3/GoalForge-Intelligent-Goal-Recommendation-System.git
+
 cd GoalForge-Intelligent-Goal-Recommendation-System
 
 # Install dependencies
@@ -21,13 +22,14 @@ Asks 20 Interactive Questions → Understands your interests, skills, and values
 Beautiful UI → Clean, intuitive interface built with Streamlit
 
 **Tech Stack**
-Tool	Purpose
+
+**Tool	Purpose**
 * Python	- Core programming language
 * Pandas	- Data processing & analysis
 * Scikit-learn - Machine learning algorithms
 * Streamlit - Interactive web interface
 
-Preview
+**Preview**
 Get personalized career goals in under 5 minutes Perfect For Students exploring career paths
 Professionals considering career changes, Anyone seeking data-driven career guidance
 

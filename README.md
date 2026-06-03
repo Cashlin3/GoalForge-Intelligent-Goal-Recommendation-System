@@ -1,6 +1,6 @@
 **GoalForge! - Intelligent Goal Recommendation System** - that Asks 20 questions, get 5 personalized career goals powered by machine learning.
 
-**Start**
+**How to Start**
 
 **bash:**
 # Clone the repository

@@ -61,10 +61,10 @@ For example — a student who selects both **Art** and **Technology** across dif
 Students answer **20 questions** designed to surface interests indirectly rather than asking "what career do you want" outright — things like:
 
 - What is your favorite hobby?
-- What kind of YouTube content do you consume the most?
+- How do you usually spend your weekends?
 - What subject do you enjoy the most in school?
-- What type of problems do you like solving?
-- If you could intern anywhere, what field would you choose?
+- Which activity makes you lose track of time?
+- What do your friends usually ask your help for?
 
 Each answer is picked from **40+ interest categories** spanning the arts, sciences, tech, and beyond — Art, Business, Cooking, Design, Engineering, Fashion, Gaming, Healthcare, Law, Psychology, Quantum Science, Technology, UX/UI, Zoology, and more.
 
@@ -110,10 +110,5 @@ streamlit run app.py
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 Made with 🎯 curiosity + ❤️ by **Cashlin**

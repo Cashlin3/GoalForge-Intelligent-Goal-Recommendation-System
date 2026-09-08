@@ -19,6 +19,7 @@ GoalForge solves this by asking students about their everyday interests — hobb
 ## 🔄 How It Works
 
 20 Interest-Based Questions
+
 (hobbies, subjects, YouTube habits, free time, etc.)
 │
 ▼

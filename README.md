@@ -18,29 +18,30 @@ GoalForge solves this by asking students about their everyday interests — hobb
 
 ## 🔄 How It Works
 
+```
 20 Interest-Based Questions
-
 (hobbies, subjects, YouTube habits, free time, etc.)
-│
-▼
+           │
+           ▼
 Student Selects Closest-Matching
 Interest per Question (from 40 categories)
-│
-▼
+           │
+           ▼
 Interest → Career Mapping Engine
 (each category maps to 2–3 real career paths)
-│
-▼
+           │
+           ▼
 Aggregation & Deduplication
 (combine careers across all selected interests)
-│
-▼
+           │
+           ▼
 Random Sampling
 (narrow down to Top 5 if more than 5 match)
-│
-▼
+           │
+           ▼
 Personalized Career Suggestions
 
+```
 
 For example — a student who selects both **Art** and **Technology** across different questions ends up with overlapping suggestions like **UI/UX Designer**, alongside other matches like **Illustrator** or **AI Researcher**.
 
